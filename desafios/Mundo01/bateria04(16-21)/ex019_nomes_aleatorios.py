@@ -1,4 +1,4 @@
-from random import randint, choice
+from random import choice
 
 print('Nomes aleatórios')
 nome1 = input('Primeiro nome: ')
