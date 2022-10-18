@@ -5,7 +5,7 @@ par   = (0, 2, 4, 6, 8, 0)
 impar = (1, 3, 5, 7, 9, 0)
 a = par + impar
 b = impar + par
-# A ordem tem total influência!
+# A ordem tem total influência!!
 print(a)
 print(b)
 print(a.count(0)) # Conta quantas vezes temos o valor dentro da tupla;
